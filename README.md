@@ -8,16 +8,19 @@ ChatIA Juegos es una aplicación web que ofrece una experiencia de chat interact
 ## Características principales
 
 * **Chat impulsado por IA:** Conversa con un bot inteligente que entiende el lenguaje de los videojuegos.
+  
 * **Información de juegos:** Obtén información sobre juegos, personajes, estrategias y noticias.
+  
 * **Recomendaciones personalizadas:** Recibe recomendaciones de juegos y contenido relevante según tus intereses.
-* **Integración con comunidades:** Conéctate con otros jugadores y comparte tus experiencias.
+  
 * **Interfaz amigable:** Diseño intuitivo y fácil de usar, adaptado a dispositivos móviles.
+
 * **Tecnologías web modernas:** Desarrollado con JavaScript y Bootstrap para una experiencia fluida y responsiva.
 
 ## Tecnologías utilizadas
 
-* **Frontend:** JavaScript, Bootstrap, HTML5, CSS3.
-* **IA:** \[Modelos y APIs de IA utilizados, ej., GPT-3, Dialogflow]
+* JavaScript, Bootstrap, HTML5, CSS3.
+* [Modelos y APIs de IA utilizados, ej., GPT-3, Dialogflow]
 
 ## Cómo contribuir
 
@@ -29,24 +32,3 @@ ChatIA Juegos es una aplicación web que ofrece una experiencia de chat interact
 * Añadir soporte para nuevos juegos o comunidades.
 * Optimizar el rendimiento o la lógica del bot.
 
-## Instalación
-
-\[Instrucciones de instalación del proyecto]
-
-## Uso
-
-\[Instrucciones de uso de la aplicación]
-
-## Licencia
-
-\[Tipo de licencia del proyecto]
-
-## Contacto
-
-\[Información de contacto del desarrollador o equipo]
-
-## Ejemplo de uso
-
-Imagina que quieres discutir estrategias para vencer a un jefe difícil en tu juego favorito. Con ChatIA Juegos, puedes preguntar al bot sobre las mejores tácticas, obtener consejos de otros jugadores y compartir tus propias experiencias.
-
-**¡Únete a la conversación y lleva tu experiencia de juego al siguiente nivel con ChatIA Juegos!**
